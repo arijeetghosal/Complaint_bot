@@ -14,13 +14,12 @@ When we filled the right information it asks us to download the report in txt fi
 
 
 
-This is the message ![Screenshot 2024-08-26 162037](https://github.com/user-attachments/assets/3e397b4a-343d-4085-9b63-c468e37ecc5a)
-that it displays in the txt file.
+![Screenshot 2024-08-26 162037](https://github.com/user-attachments/assets/3e397b4a-343d-4085-9b63-c468e37ecc5a)
+This is the message that we can download in the txt file.
 
-![Screenshot 2024-08-26 163336](https://github.com/user-attachments/assets/24416722-049c-419f-ad29-9b17091b78f6)
 
-**Complaint Report: Test Deal**![Uploading Screenshot 2024-08-26 162037.jpg…]()
 
+**Complaint Report: Test Deal**
 
 **Client:** : Test
 
