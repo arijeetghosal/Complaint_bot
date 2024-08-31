@@ -5,7 +5,7 @@ This is the chatbot that I created for the complaint Bot. The Bot’s front end 
 The work of the Complaint bot is fetching the deal's details from Pipedrive and then using the OpenAI API we can generate a report for further investigation. This project helps automate the manual work of looking at every activity inside a deal and fetching the right information based on all the activities. We also have a dialogue box to specify the activity that we particularly need.
 
 
-
+![User Interface](https://github.com/user-attachments/assets/4fd69fd8-8dbb-4811-9055-5c7e23ae8109)
 
 The front end looks like this where we can enter the deal id and the subject of the complaint.
 
@@ -14,10 +14,13 @@ When we filled the right information it asks us to download the report in txt fi
 
 
 
-This is the message that it displays in the txt file.
+This is the message ![Screenshot 2024-08-26 162037](https://github.com/user-attachments/assets/3e397b4a-343d-4085-9b63-c468e37ecc5a)
+that it displays in the txt file.
 
+![Screenshot 2024-08-26 163336](https://github.com/user-attachments/assets/24416722-049c-419f-ad29-9b17091b78f6)
 
-**Complaint Report: Test Deal**
+**Complaint Report: Test Deal**![Uploading Screenshot 2024-08-26 162037.jpg…]()
+
 
 **Client:** : Test
 
